@@ -1,0 +1,18 @@
+{
+    "name": "SendMyOrder",
+    "short_name": "SendMyOrder",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "An order generator app",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }  
+    ]
+}
